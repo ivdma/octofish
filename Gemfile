@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 
-gem 'coveralls', require: false
+group :test do
+  gem 'coveralls', require: false
+end
 
 # Specify your gem's dependencies in octofish.gemspec
 gemspec
