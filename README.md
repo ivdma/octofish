@@ -1,5 +1,9 @@
 # Octofish
 
+[![Build Status](https://travis-ci.org/imalijkh/octofish.svg?branch=master)](https://travis-ci.org/imalijkh/octofish)
+
+[![Dependency Status](https://gemnasium.com/imalijkh/octofish.svg)](https://gemnasium.com/imalijkh/octofish)
+
 TODO: Write a gem description
 
 ## Installation
