@@ -1,0 +1,92 @@
+{
+  "ref": "refs/heads/master",
+  "after": "e89b1288b0038fd3a012f4645fcff72ba05da44d",
+  "before": "28754b3ec42bbf76074a3c98456e16cca78f4183",
+  "created": false,
+  "deleted": false,
+  "forced": false,
+  "compare": "https://github.com/roqua/calculator/compare/28754b3ec42b...e89b1288b003",
+  "commits": [
+    {
+      "id": "e89b1288b0038fd3a012f4645fcff72ba05da44d",
+      "distinct": true,
+      "message": "added doc readme",
+      "timestamp": "2014-04-17T15:27:53+02:00",
+      "url": "https://github.com/roqua/calculator/commit/e89b1288b0038fd3a012f4645fcff72ba05da44d",
+      "author": {
+        "name": "Ivan Malykh",
+        "email": "ivan@roqua.nl",
+        "username": "imalijkh"
+      },
+      "committer": {
+        "name": "Ivan Malykh",
+        "email": "ivan@roqua.nl",
+        "username": "imalijkh"
+      },
+      "added": [
+
+      ],
+      "removed": [
+
+      ],
+      "modified": [
+        "README.md"
+      ]
+    }
+  ],
+  "head_commit": {
+    "id": "e89b1288b0038fd3a012f4645fcff72ba05da44d",
+    "distinct": true,
+    "message": "added doc readme",
+    "timestamp": "2014-04-17T15:27:53+02:00",
+    "url": "https://github.com/roqua/calculator/commit/e89b1288b0038fd3a012f4645fcff72ba05da44d",
+    "author": {
+      "name": "Ivan Malykh",
+      "email": "ivan@roqua.nl",
+      "username": "imalijkh"
+    },
+    "committer": {
+      "name": "Ivan Malykh",
+      "email": "ivan@roqua.nl",
+      "username": "imalijkh"
+    },
+    "added": [
+
+    ],
+    "removed": [
+
+    ],
+    "modified": [
+      "README.md"
+    ]
+  },
+  "repository": {
+    "id": 18834445,
+    "name": "calculator",
+    "url": "https://github.com/roqua/calculator",
+    "description": "Example R-Package with tests",
+    "watchers": 0,
+    "stargazers": 0,
+    "forks": 0,
+    "fork": false,
+    "size": 0,
+    "owner": {
+      "name": "roqua",
+      "email": "info@roqua.nl"
+    },
+    "private": true,
+    "open_issues": 0,
+    "has_issues": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "language": "R",
+    "created_at": 1397641079,
+    "pushed_at": 1397741276,
+    "master_branch": "master",
+    "organization": "roqua"
+  },
+  "pusher": {
+    "name": "imalijkh",
+    "email": "i.malijkh@gmail.com"
+  }
+}
