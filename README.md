@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/ivdma/octofish.svg?branch=v0.0.1)](https://travis-ci.org/ivdma/octofish)
 [![Dependency Status](https://gemnasium.com/ivdma/octofish.svg)](https://gemnasium.com/ivdma/octofish)
 [![Coverage Status](https://coveralls.io/repos/ivdma/octofish/badge.png)](https://coveralls.io/r/ivdma/octofish)
+[![Code Climate](https://codeclimate.com/github/ivdma/octofish.png)](https://codeclimate.com/github/ivdma/octofish)
 
 TODO: Write a gem description
 
