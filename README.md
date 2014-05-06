@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/ivdma/octofish.svg?branch=v0.0.1)](https://travis-ci.org/ivdma/octofish)
 [![Dependency Status](https://gemnasium.com/imalijkh/octofish.svg)](https://gemnasium.com/imalijkh/octofish)
+[![Coverage Status](https://coveralls.io/repos/ivdma/octofish/badge.png)](https://coveralls.io/r/ivdma/octofish)
 
 TODO: Write a gem description
 
