@@ -1,7 +1,6 @@
 # Octofish
 
-[![Build Status](https://travis-ci.org/imalijkh/octofish.svg?branch=master)](https://travis-ci.org/imalijkh/octofish)
-
+[![Build Status](https://travis-ci.org/ivdma/octofish.svg?branch=v0.0.1)](https://travis-ci.org/ivdma/octofish)
 [![Dependency Status](https://gemnasium.com/imalijkh/octofish.svg)](https://gemnasium.com/imalijkh/octofish)
 
 TODO: Write a gem description
