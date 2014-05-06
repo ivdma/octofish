@@ -1,3 +1,4 @@
+require 'json'
 require 'virtus'
 
 %w(person commit repository hook).each do |file|
